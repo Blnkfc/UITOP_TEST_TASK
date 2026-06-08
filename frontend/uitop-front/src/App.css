@@ -1,3 +1,14 @@
+.app-shell {
+  margin: 0 auto;
+  max-width: 900px;
+  padding: 24px;
+}
+
+.nav {
+  display: flex;
+  gap: 16px;
+  margin-bottom: 24px;
+}
 .counter {
   font-size: 16px;
   padding: 5px 10px;
